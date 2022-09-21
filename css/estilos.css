@@ -6,7 +6,7 @@
   box-sizing: border-box; }
 
 body {
-  background: #fff;
+  background: #a4a4a4;
   font-family: "Open Sans";
   font-size: 16px; }
 
@@ -81,7 +81,7 @@ header {
       margin-bottom: 40px;
       line-height: 34px;
       font-weight: 300;
-      color: #dd820d;
+      color: #299;
       text-align: center; }
     .main .acerca-de .texto .bold {
       color: #3895ea;
